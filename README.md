@@ -2,7 +2,9 @@
 # Linux Highspeed Desktop using Colab
 __________________________________________________________________________________________________
 ! wget https://raw.githubusercontent.com/k84shailendra/Gdesktop/main/rdp.sh &> /dev/null
+
 ! chmod +x rdp.sh
+
 ! ./rdp.sh
 
 __________________________________________________________________________________________________
